@@ -1,4 +1,4 @@
-# Cyber4s 3rd Pre-Course Final Project
+Pre-Course Final Project
 
 ## What we will be building
 
@@ -113,7 +113,7 @@ Your work will be graded based on the following considerations:
 
 1. On GitHub, open a pull request from your branch to the main branch.
 2. **Do not merge the pull request!**
-3. Add the user `Cyber4sPopo` as collaborator to your repo.
+3. Add the user `4sPopo` as collaborator to your repo.
 4. Deploy your application to GitHub pages.
 5. Submit in Google Classroom:
    - a link to the pull request
